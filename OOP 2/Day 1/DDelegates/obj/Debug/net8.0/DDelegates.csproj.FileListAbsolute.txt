@@ -1,0 +1,28 @@
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\DDelegates\bin\Debug\net8.0\DDelegates.exe
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\DDelegates\bin\Debug\net8.0\DDelegates.deps.json
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\DDelegates\bin\Debug\net8.0\DDelegates.runtimeconfig.json
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\DDelegates\bin\Debug\net8.0\DDelegates.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\DDelegates\bin\Debug\net8.0\DDelegates.pdb
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\DDelegates\obj\Debug\net8.0\DDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\DDelegates\obj\Debug\net8.0\DDelegates.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\DDelegates\obj\Debug\net8.0\DDelegates.AssemblyInfo.cs
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\DDelegates\obj\Debug\net8.0\DDelegates.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\DDelegates\obj\Debug\net8.0\DDelegates.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\DDelegates\obj\Debug\net8.0\refint\DDelegates.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\DDelegates\obj\Debug\net8.0\DDelegates.pdb
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\DDelegates\obj\Debug\net8.0\DDelegates.genruntimeconfig.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\DDelegates\obj\Debug\net8.0\ref\DDelegates.dll
+C:\Users\Simeon\Desktop\OOP 2\Day 1\DDelegates\bin\Debug\net8.0\DDelegates.exe
+C:\Users\Simeon\Desktop\OOP 2\Day 1\DDelegates\bin\Debug\net8.0\DDelegates.deps.json
+C:\Users\Simeon\Desktop\OOP 2\Day 1\DDelegates\bin\Debug\net8.0\DDelegates.runtimeconfig.json
+C:\Users\Simeon\Desktop\OOP 2\Day 1\DDelegates\bin\Debug\net8.0\DDelegates.dll
+C:\Users\Simeon\Desktop\OOP 2\Day 1\DDelegates\bin\Debug\net8.0\DDelegates.pdb
+C:\Users\Simeon\Desktop\OOP 2\Day 1\DDelegates\obj\Debug\net8.0\DDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon\Desktop\OOP 2\Day 1\DDelegates\obj\Debug\net8.0\DDelegates.AssemblyInfoInputs.cache
+C:\Users\Simeon\Desktop\OOP 2\Day 1\DDelegates\obj\Debug\net8.0\DDelegates.AssemblyInfo.cs
+C:\Users\Simeon\Desktop\OOP 2\Day 1\DDelegates\obj\Debug\net8.0\DDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\Desktop\OOP 2\Day 1\DDelegates\obj\Debug\net8.0\DDelegates.dll
+C:\Users\Simeon\Desktop\OOP 2\Day 1\DDelegates\obj\Debug\net8.0\refint\DDelegates.dll
+C:\Users\Simeon\Desktop\OOP 2\Day 1\DDelegates\obj\Debug\net8.0\DDelegates.pdb
+C:\Users\Simeon\Desktop\OOP 2\Day 1\DDelegates\obj\Debug\net8.0\DDelegates.genruntimeconfig.cache
+C:\Users\Simeon\Desktop\OOP 2\Day 1\DDelegates\obj\Debug\net8.0\ref\DDelegates.dll

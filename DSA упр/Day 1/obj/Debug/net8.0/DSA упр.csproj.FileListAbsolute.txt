@@ -1,0 +1,14 @@
+C:\Users\Simeon\Desktop\DSA упр\bin\Debug\net8.0\DSA упр.exe
+C:\Users\Simeon\Desktop\DSA упр\bin\Debug\net8.0\DSA упр.deps.json
+C:\Users\Simeon\Desktop\DSA упр\bin\Debug\net8.0\DSA упр.runtimeconfig.json
+C:\Users\Simeon\Desktop\DSA упр\bin\Debug\net8.0\DSA упр.dll
+C:\Users\Simeon\Desktop\DSA упр\bin\Debug\net8.0\DSA упр.pdb
+C:\Users\Simeon\Desktop\DSA упр\obj\Debug\net8.0\DSA упр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon\Desktop\DSA упр\obj\Debug\net8.0\DSA упр.AssemblyInfoInputs.cache
+C:\Users\Simeon\Desktop\DSA упр\obj\Debug\net8.0\DSA упр.AssemblyInfo.cs
+C:\Users\Simeon\Desktop\DSA упр\obj\Debug\net8.0\DSA упр.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\Desktop\DSA упр\obj\Debug\net8.0\DSA упр.dll
+C:\Users\Simeon\Desktop\DSA упр\obj\Debug\net8.0\refint\DSA упр.dll
+C:\Users\Simeon\Desktop\DSA упр\obj\Debug\net8.0\DSA упр.pdb
+C:\Users\Simeon\Desktop\DSA упр\obj\Debug\net8.0\DSA упр.genruntimeconfig.cache
+C:\Users\Simeon\Desktop\DSA упр\obj\Debug\net8.0\ref\DSA упр.dll

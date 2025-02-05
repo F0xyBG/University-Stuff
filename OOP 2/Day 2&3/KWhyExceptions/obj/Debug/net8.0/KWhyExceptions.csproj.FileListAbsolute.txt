@@ -1,0 +1,14 @@
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\KWhyExceptions\bin\Debug\net8.0\KWhyExceptions.exe
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\KWhyExceptions\bin\Debug\net8.0\KWhyExceptions.deps.json
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\KWhyExceptions\bin\Debug\net8.0\KWhyExceptions.runtimeconfig.json
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\KWhyExceptions\bin\Debug\net8.0\KWhyExceptions.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\KWhyExceptions\bin\Debug\net8.0\KWhyExceptions.pdb
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\KWhyExceptions\obj\Debug\net8.0\KWhyExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\KWhyExceptions\obj\Debug\net8.0\KWhyExceptions.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\KWhyExceptions\obj\Debug\net8.0\KWhyExceptions.AssemblyInfo.cs
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\KWhyExceptions\obj\Debug\net8.0\KWhyExceptions.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\KWhyExceptions\obj\Debug\net8.0\KWhyExceptions.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\KWhyExceptions\obj\Debug\net8.0\refint\KWhyExceptions.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\KWhyExceptions\obj\Debug\net8.0\KWhyExceptions.pdb
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\KWhyExceptions\obj\Debug\net8.0\KWhyExceptions.genruntimeconfig.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\KWhyExceptions\obj\Debug\net8.0\ref\KWhyExceptions.dll

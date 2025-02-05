@@ -1,0 +1,14 @@
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\BValueVsRefTypes\bin\Debug\net8.0\BValueVsRefTypes.exe
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\BValueVsRefTypes\bin\Debug\net8.0\BValueVsRefTypes.deps.json
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\BValueVsRefTypes\bin\Debug\net8.0\BValueVsRefTypes.runtimeconfig.json
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\BValueVsRefTypes\bin\Debug\net8.0\BValueVsRefTypes.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\BValueVsRefTypes\bin\Debug\net8.0\BValueVsRefTypes.pdb
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\BValueVsRefTypes\obj\Debug\net8.0\BValueVsRefTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\BValueVsRefTypes\obj\Debug\net8.0\BValueVsRefTypes.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\BValueVsRefTypes\obj\Debug\net8.0\BValueVsRefTypes.AssemblyInfo.cs
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\BValueVsRefTypes\obj\Debug\net8.0\BValueVsRefTypes.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\BValueVsRefTypes\obj\Debug\net8.0\BValueVsRefTypes.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\BValueVsRefTypes\obj\Debug\net8.0\refint\BValueVsRefTypes.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\BValueVsRefTypes\obj\Debug\net8.0\BValueVsRefTypes.pdb
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\BValueVsRefTypes\obj\Debug\net8.0\BValueVsRefTypes.genruntimeconfig.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 1\BValueVsRefTypes\obj\Debug\net8.0\ref\BValueVsRefTypes.dll

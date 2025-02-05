@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Lectures\\2024-2025\\OOP 2 SI z\\Day 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2142A1E-E8DC-4C72-AF19-7FB031F68E1E}|DDelegates\\DDelegates.csproj|c:\\projects\\lectures\\2024-2025\\oop 2 si z\\day 1\\ddelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2142A1E-E8DC-4C72-AF19-7FB031F68E1E}|DDelegates\\DDelegates.csproj|solutionrelative:ddelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2142A1E-E8DC-4C72-AF19-7FB031F68E1E}|DDelegates\\DDelegates.csproj|c:\\projects\\lectures\\2024-2025\\oop 2 si z\\day 1\\ddelegates\\mysuperiorbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2142A1E-E8DC-4C72-AF19-7FB031F68E1E}|DDelegates\\DDelegates.csproj|solutionrelative:ddelegates\\mysuperiorbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2142A1E-E8DC-4C72-AF19-7FB031F68E1E}|DDelegates\\DDelegates.csproj|c:\\projects\\lectures\\2024-2025\\oop 2 si z\\day 1\\ddelegates\\mybetterbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2142A1E-E8DC-4C72-AF19-7FB031F68E1E}|DDelegates\\DDelegates.csproj|solutionrelative:ddelegates\\mybetterbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Lectures\\2024-2025\\OOP 2 SI z\\Day 1\\DDelegates\\Program.cs",
+              "RelativeDocumentMoniker": "DDelegates\\Program.cs",
+              "ToolTip": "C:\\Projects\\Lectures\\2024-2025\\OOP 2 SI z\\Day 1\\DDelegates\\Program.cs",
+              "RelativeToolTip": "DDelegates\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:18:41.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MySuperiorButton.cs",
+              "DocumentMoniker": "C:\\Projects\\Lectures\\2024-2025\\OOP 2 SI z\\Day 1\\DDelegates\\MySuperiorButton.cs",
+              "RelativeDocumentMoniker": "DDelegates\\MySuperiorButton.cs",
+              "ToolTip": "C:\\Projects\\Lectures\\2024-2025\\OOP 2 SI z\\Day 1\\DDelegates\\MySuperiorButton.cs",
+              "RelativeToolTip": "DDelegates\\MySuperiorButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:16:28.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyBetterButton.cs",
+              "DocumentMoniker": "C:\\Projects\\Lectures\\2024-2025\\OOP 2 SI z\\Day 1\\DDelegates\\MyBetterButton.cs",
+              "RelativeDocumentMoniker": "DDelegates\\MyBetterButton.cs",
+              "ToolTip": "C:\\Projects\\Lectures\\2024-2025\\OOP 2 SI z\\Day 1\\DDelegates\\MyBetterButton.cs",
+              "RelativeToolTip": "DDelegates\\MyBetterButton.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:16:08.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

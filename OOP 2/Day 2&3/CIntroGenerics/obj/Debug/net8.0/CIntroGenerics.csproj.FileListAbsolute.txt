@@ -1,0 +1,14 @@
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\CIntroGenerics\obj\Debug\net8.0\CIntroGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\CIntroGenerics\obj\Debug\net8.0\CIntroGenerics.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\CIntroGenerics\obj\Debug\net8.0\CIntroGenerics.AssemblyInfo.cs
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\CIntroGenerics\obj\Debug\net8.0\CIntroGenerics.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\CIntroGenerics\bin\Debug\net8.0\CIntroGenerics.exe
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\CIntroGenerics\bin\Debug\net8.0\CIntroGenerics.deps.json
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\CIntroGenerics\bin\Debug\net8.0\CIntroGenerics.runtimeconfig.json
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\CIntroGenerics\bin\Debug\net8.0\CIntroGenerics.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\CIntroGenerics\bin\Debug\net8.0\CIntroGenerics.pdb
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\CIntroGenerics\obj\Debug\net8.0\CIntroGenerics.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\CIntroGenerics\obj\Debug\net8.0\refint\CIntroGenerics.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\CIntroGenerics\obj\Debug\net8.0\CIntroGenerics.pdb
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\CIntroGenerics\obj\Debug\net8.0\CIntroGenerics.genruntimeconfig.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\CIntroGenerics\obj\Debug\net8.0\ref\CIntroGenerics.dll

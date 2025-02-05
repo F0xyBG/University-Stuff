@@ -1,0 +1,14 @@
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Time fields\bin\Debug\net8.0\Time fields.exe
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Time fields\bin\Debug\net8.0\Time fields.deps.json
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Time fields\bin\Debug\net8.0\Time fields.runtimeconfig.json
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Time fields\bin\Debug\net8.0\Time fields.dll
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Time fields\bin\Debug\net8.0\Time fields.pdb
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Time fields\obj\Debug\net8.0\Time fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Time fields\obj\Debug\net8.0\Time fields.AssemblyInfoInputs.cache
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Time fields\obj\Debug\net8.0\Time fields.AssemblyInfo.cs
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Time fields\obj\Debug\net8.0\Time fields.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Time fields\obj\Debug\net8.0\Time fields.dll
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Time fields\obj\Debug\net8.0\refint\Time fields.dll
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Time fields\obj\Debug\net8.0\Time fields.pdb
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Time fields\obj\Debug\net8.0\Time fields.genruntimeconfig.cache
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Time fields\obj\Debug\net8.0\ref\Time fields.dll

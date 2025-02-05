@@ -1,0 +1,14 @@
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\AWhyGenerics\bin\Debug\net8.0\AWhyGenerics.exe
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\AWhyGenerics\bin\Debug\net8.0\AWhyGenerics.deps.json
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\AWhyGenerics\bin\Debug\net8.0\AWhyGenerics.runtimeconfig.json
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\AWhyGenerics\bin\Debug\net8.0\AWhyGenerics.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\AWhyGenerics\bin\Debug\net8.0\AWhyGenerics.pdb
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\AWhyGenerics\obj\Debug\net8.0\AWhyGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\AWhyGenerics\obj\Debug\net8.0\AWhyGenerics.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\AWhyGenerics\obj\Debug\net8.0\AWhyGenerics.AssemblyInfo.cs
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\AWhyGenerics\obj\Debug\net8.0\AWhyGenerics.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\AWhyGenerics\obj\Debug\net8.0\AWhyGenerics.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\AWhyGenerics\obj\Debug\net8.0\refint\AWhyGenerics.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\AWhyGenerics\obj\Debug\net8.0\AWhyGenerics.pdb
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\AWhyGenerics\obj\Debug\net8.0\AWhyGenerics.genruntimeconfig.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\AWhyGenerics\obj\Debug\net8.0\ref\AWhyGenerics.dll

@@ -1,0 +1,14 @@
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\HStaticvsInstanceMembers\bin\Debug\net8.0\HStaticvsInstanceMembers.exe
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\HStaticvsInstanceMembers\bin\Debug\net8.0\HStaticvsInstanceMembers.deps.json
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\HStaticvsInstanceMembers\bin\Debug\net8.0\HStaticvsInstanceMembers.runtimeconfig.json
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\HStaticvsInstanceMembers\bin\Debug\net8.0\HStaticvsInstanceMembers.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\HStaticvsInstanceMembers\bin\Debug\net8.0\HStaticvsInstanceMembers.pdb
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\HStaticvsInstanceMembers\obj\Debug\net8.0\HStaticvsInstanceMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\HStaticvsInstanceMembers\obj\Debug\net8.0\HStaticvsInstanceMembers.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\HStaticvsInstanceMembers\obj\Debug\net8.0\HStaticvsInstanceMembers.AssemblyInfo.cs
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\HStaticvsInstanceMembers\obj\Debug\net8.0\HStaticvsInstanceMembers.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\HStaticvsInstanceMembers\obj\Debug\net8.0\HStaticvsInstanceMembers.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\HStaticvsInstanceMembers\obj\Debug\net8.0\refint\HStaticvsInstanceMembers.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\HStaticvsInstanceMembers\obj\Debug\net8.0\HStaticvsInstanceMembers.pdb
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\HStaticvsInstanceMembers\obj\Debug\net8.0\HStaticvsInstanceMembers.genruntimeconfig.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\HStaticvsInstanceMembers\obj\Debug\net8.0\ref\HStaticvsInstanceMembers.dll

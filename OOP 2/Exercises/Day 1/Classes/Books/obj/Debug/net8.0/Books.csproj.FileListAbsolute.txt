@@ -1,0 +1,14 @@
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Books\bin\Debug\net8.0\Books.exe
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Books\bin\Debug\net8.0\Books.deps.json
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Books\bin\Debug\net8.0\Books.runtimeconfig.json
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Books\bin\Debug\net8.0\Books.dll
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Books\bin\Debug\net8.0\Books.pdb
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Books\obj\Debug\net8.0\Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Books\obj\Debug\net8.0\Books.AssemblyInfoInputs.cache
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Books\obj\Debug\net8.0\Books.AssemblyInfo.cs
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Books\obj\Debug\net8.0\Books.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Books\obj\Debug\net8.0\Books.dll
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Books\obj\Debug\net8.0\refint\Books.dll
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Books\obj\Debug\net8.0\Books.pdb
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Books\obj\Debug\net8.0\Books.genruntimeconfig.cache
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 1\Classes\Books\obj\Debug\net8.0\ref\Books.dll

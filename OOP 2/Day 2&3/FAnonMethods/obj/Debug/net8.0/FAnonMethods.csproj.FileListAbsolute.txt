@@ -1,0 +1,14 @@
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\FAnonMethods\bin\Debug\net8.0\FAnonMethods.exe
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\FAnonMethods\bin\Debug\net8.0\FAnonMethods.deps.json
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\FAnonMethods\bin\Debug\net8.0\FAnonMethods.runtimeconfig.json
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\FAnonMethods\bin\Debug\net8.0\FAnonMethods.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\FAnonMethods\bin\Debug\net8.0\FAnonMethods.pdb
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\FAnonMethods\obj\Debug\net8.0\FAnonMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\FAnonMethods\obj\Debug\net8.0\FAnonMethods.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\FAnonMethods\obj\Debug\net8.0\FAnonMethods.AssemblyInfo.cs
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\FAnonMethods\obj\Debug\net8.0\FAnonMethods.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\FAnonMethods\obj\Debug\net8.0\FAnonMethods.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\FAnonMethods\obj\Debug\net8.0\refint\FAnonMethods.dll
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\FAnonMethods\obj\Debug\net8.0\FAnonMethods.pdb
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\FAnonMethods\obj\Debug\net8.0\FAnonMethods.genruntimeconfig.cache
+C:\Projects\Lectures\2024-2025\OOP 2 SI z\Day 2\FAnonMethods\obj\Debug\net8.0\ref\FAnonMethods.dll

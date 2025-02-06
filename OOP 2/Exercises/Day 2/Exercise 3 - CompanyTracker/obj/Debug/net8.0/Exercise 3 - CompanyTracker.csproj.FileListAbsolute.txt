@@ -1,0 +1,14 @@
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 3 - CompanyTracker\bin\Debug\net8.0\Exercise 3 - CompanyTracker.exe
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 3 - CompanyTracker\bin\Debug\net8.0\Exercise 3 - CompanyTracker.deps.json
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 3 - CompanyTracker\bin\Debug\net8.0\Exercise 3 - CompanyTracker.runtimeconfig.json
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 3 - CompanyTracker\bin\Debug\net8.0\Exercise 3 - CompanyTracker.dll
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 3 - CompanyTracker\bin\Debug\net8.0\Exercise 3 - CompanyTracker.pdb
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 3 - CompanyTracker\obj\Debug\net8.0\Exercise 3 - CompanyTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 3 - CompanyTracker\obj\Debug\net8.0\Exercise 3 - CompanyTracker.AssemblyInfoInputs.cache
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 3 - CompanyTracker\obj\Debug\net8.0\Exercise 3 - CompanyTracker.AssemblyInfo.cs
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 3 - CompanyTracker\obj\Debug\net8.0\Exercise 3 - CompanyTracker.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 3 - CompanyTracker\obj\Debug\net8.0\Exercise 3 - CompanyTracker.dll
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 3 - CompanyTracker\obj\Debug\net8.0\refint\Exercise 3 - CompanyTracker.dll
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 3 - CompanyTracker\obj\Debug\net8.0\Exercise 3 - CompanyTracker.pdb
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 3 - CompanyTracker\obj\Debug\net8.0\Exercise 3 - CompanyTracker.genruntimeconfig.cache
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 3 - CompanyTracker\obj\Debug\net8.0\ref\Exercise 3 - CompanyTracker.dll

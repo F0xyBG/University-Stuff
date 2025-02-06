@@ -1,0 +1,14 @@
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 2 - Restaurants\bin\Debug\net8.0\Exercise 2 - Restaurants.exe
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 2 - Restaurants\bin\Debug\net8.0\Exercise 2 - Restaurants.deps.json
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 2 - Restaurants\bin\Debug\net8.0\Exercise 2 - Restaurants.runtimeconfig.json
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 2 - Restaurants\bin\Debug\net8.0\Exercise 2 - Restaurants.dll
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 2 - Restaurants\bin\Debug\net8.0\Exercise 2 - Restaurants.pdb
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 2 - Restaurants\obj\Debug\net8.0\Exercise 2 - Restaurants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 2 - Restaurants\obj\Debug\net8.0\Exercise 2 - Restaurants.AssemblyInfoInputs.cache
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 2 - Restaurants\obj\Debug\net8.0\Exercise 2 - Restaurants.AssemblyInfo.cs
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 2 - Restaurants\obj\Debug\net8.0\Exercise 2 - Restaurants.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 2 - Restaurants\obj\Debug\net8.0\Exercise 2 - Restaurants.dll
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 2 - Restaurants\obj\Debug\net8.0\refint\Exercise 2 - Restaurants.dll
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 2 - Restaurants\obj\Debug\net8.0\Exercise 2 - Restaurants.pdb
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 2 - Restaurants\obj\Debug\net8.0\Exercise 2 - Restaurants.genruntimeconfig.cache
+C:\Users\Simeon\Desktop\OOP 2\Exercises\Day 2\Exercise 2 - Restaurants\obj\Debug\net8.0\ref\Exercise 2 - Restaurants.dll

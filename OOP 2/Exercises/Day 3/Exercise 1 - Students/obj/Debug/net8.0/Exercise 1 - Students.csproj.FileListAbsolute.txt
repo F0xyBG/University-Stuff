@@ -1,0 +1,15 @@
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 1 - Students\bin\Debug\net8.0\Exercise 1 - Students.exe
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 1 - Students\bin\Debug\net8.0\Exercise 1 - Students.deps.json
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 1 - Students\bin\Debug\net8.0\Exercise 1 - Students.runtimeconfig.json
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 1 - Students\bin\Debug\net8.0\Exercise 1 - Students.dll
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 1 - Students\bin\Debug\net8.0\Exercise 1 - Students.pdb
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 1 - Students\obj\Debug\net8.0\Exercise 1 - Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 1 - Students\obj\Debug\net8.0\Exercise 1 - Students.AssemblyInfoInputs.cache
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 1 - Students\obj\Debug\net8.0\Exercise 1 - Students.AssemblyInfo.cs
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 1 - Students\obj\Debug\net8.0\Exercise 1 - Students.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 1 - Students\obj\Debug\net8.0\Exercise 1 - Students.sourcelink.json
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 1 - Students\obj\Debug\net8.0\Exercise 1 - Students.dll
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 1 - Students\obj\Debug\net8.0\refint\Exercise 1 - Students.dll
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 1 - Students\obj\Debug\net8.0\Exercise 1 - Students.pdb
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 1 - Students\obj\Debug\net8.0\Exercise 1 - Students.genruntimeconfig.cache
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 1 - Students\obj\Debug\net8.0\ref\Exercise 1 - Students.dll

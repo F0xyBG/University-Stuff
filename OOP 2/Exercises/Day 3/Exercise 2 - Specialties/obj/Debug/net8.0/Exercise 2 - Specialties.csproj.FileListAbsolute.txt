@@ -1,0 +1,15 @@
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 2 - Specialties\obj\Debug\net8.0\Exercise 2 - Specialties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 2 - Specialties\obj\Debug\net8.0\Exercise 2 - Specialties.AssemblyInfoInputs.cache
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 2 - Specialties\obj\Debug\net8.0\Exercise 2 - Specialties.AssemblyInfo.cs
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 2 - Specialties\obj\Debug\net8.0\Exercise 2 - Specialties.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 2 - Specialties\obj\Debug\net8.0\Exercise 2 - Specialties.sourcelink.json
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 2 - Specialties\bin\Debug\net8.0\Exercise 2 - Specialties.exe
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 2 - Specialties\bin\Debug\net8.0\Exercise 2 - Specialties.deps.json
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 2 - Specialties\bin\Debug\net8.0\Exercise 2 - Specialties.runtimeconfig.json
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 2 - Specialties\bin\Debug\net8.0\Exercise 2 - Specialties.dll
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 2 - Specialties\bin\Debug\net8.0\Exercise 2 - Specialties.pdb
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 2 - Specialties\obj\Debug\net8.0\Exercise 2 - Specialties.dll
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 2 - Specialties\obj\Debug\net8.0\refint\Exercise 2 - Specialties.dll
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 2 - Specialties\obj\Debug\net8.0\Exercise 2 - Specialties.pdb
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 2 - Specialties\obj\Debug\net8.0\Exercise 2 - Specialties.genruntimeconfig.cache
+C:\Users\Simeon\Desktop\University Stuff\OOP 2\Exercises\Day 3\Exercise 2 - Specialties\obj\Debug\net8.0\ref\Exercise 2 - Specialties.dll

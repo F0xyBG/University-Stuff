@@ -1,0 +1,486 @@
+//N. Задача 1
+static void Main(string[] args)
+{
+    List<int> list1 = new List<int> { 1, 2, 3, 4, 5 };
+    List<int> list2 = new List<int> { 3, 4, 5, 6, 7 };
+
+    List<int> intersection = Intersection(list1, list2);
+    List<int> union = Union(list1, list2);
+
+    Console.WriteLine($"Intersection: {string.Join(", ", intersection)}");
+    Console.WriteLine($"Union: {string.Join(", ", union)}");
+    
+
+}
+
+static List<int> Intersection(List<int> list1, List<int> list2)
+{
+    List<int> result = new List<int>();
+    foreach (int i in list1)
+    {
+        if (list2.Contains(i))
+        {
+            result.Add(i);
+        }
+    }
+    return result;
+}
+
+static List<int> Union(List<int> list1, List<int> list2)
+{
+    List<int> result = new List<int>();
+    foreach (int i in list1)
+    {
+        result.Add(i);
+    }
+    foreach (int i in list2)
+    {
+        if (!result.Contains(i))
+        {
+            result.Add(i);
+        }
+    }
+    return result;
+}
+
+
+//N. Задача 2
+
+static void Main(string[] args)
+{
+    List<int> list = new List<int> {1, 2, 2, 3, 4, 4, 4, 4, 5, 6, 7, 7, 7, 7, 7, 8};
+    List<int> result = LongestSeries(list);
+    foreach (int item in result)
+    {
+        Console.Write(item + " ");
+    }
+}
+
+static List<int> LongestSeries(List<int> list)
+{
+    int maxCount = 0;
+    int maxNumber = 0;
+    
+    int previousElement = 0;
+    int currCount = 0;
+    foreach (int item in list)
+    {
+        if (item == previousElement)
+        {
+            currCount++;
+        }
+        else
+        {
+            currCount = 1;
+        }
+
+        if (currCount > maxCount)
+        {
+            maxCount = currCount;
+            maxNumber = previousElement;
+        }
+        previousElement = item;
+    }
+
+    List<int> result = new List<int>();
+    for (int i = 0; i < maxCount; i++)
+    {
+        result.Add(maxNumber);
+    }
+    return result;
+}
+
+
+//N. Задача 3
+static void Main(string[] args)
+{
+    List<double> nums = new List<double> {1, -1, 2, -2, 3, -3, 4, -4, 5, -5, 6, -6, 7, -7, 8, -8, 9, -9, 10, -10};
+    List<double> temp = nums.Where(x => x < 0).ToList();
+    foreach (var item in temp)
+    {
+        nums.Remove(item);
+    }
+    foreach (var item in nums)
+    {
+        Console.WriteLine(item);
+    }
+}
+
+
+//N. Задача 4
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        DoublyLinkedList<int> list = new DoublyLinkedList<int>();
+        list.AddLast(1);
+        list.AddLast(2);
+        list.AddLast(3);
+        list.AddAt(1, 4);
+        list.Remove(2);
+        Console.WriteLine(list.IndexOf(4)); 
+        Console.WriteLine(list.GetAt(1));
+        int[] array = list.ToArray();
+        foreach (var item in array)
+        {
+            Console.WriteLine($"Arr item: {item} ");
+        }
+    }
+}
+
+public class Node<T>
+{
+    public T Value { get; set; }
+    public Node<T> Next { get; set; }
+    public Node<T> Previous { get; set; }
+
+    public Node(T value)
+    {
+        Value = value;
+        Next = null;
+        Previous = null;
+    }
+}
+
+public class DoublyLinkedList<T>
+{
+    private Node<T> head;
+    private Node<T> tail;
+    private int count;
+
+    public DoublyLinkedList()
+    {
+        head = null;
+        tail = null;
+        count = 0;
+    }
+
+    public void AddLast(T value)
+    {
+        Node<T> newNode = new Node<T>(value);
+        if (head == null)
+        {
+            head = newNode;
+            tail = newNode;
+        }
+        else
+        {
+            tail.Next = newNode;
+            newNode.Previous = tail;
+            tail = newNode;
+        }
+        count++;
+    }
+
+    public void AddAt(int index, T value)
+    {
+        if (index < 0 || index > count)
+        {
+            throw new ArgumentOutOfRangeException(nameof(index));
+        }
+
+        Node<T> newNode = new Node<T>(value);
+        if (index == 0)
+        {
+            if (head == null)
+            {
+                head = newNode;
+                tail = newNode;
+            }
+            else
+            {
+                newNode.Next = head;
+                head.Previous = newNode;
+                head = newNode;
+            }
+        }
+        else if (index == count)
+        {
+            tail.Next = newNode;
+            newNode.Previous = tail;
+            tail = newNode;
+        }
+        else
+        {
+            Node<T> current = head;
+            for (int i = 0; i < index; i++)
+            {
+                current = current.Next;
+            }
+            newNode.Next = current;
+            newNode.Previous = current.Previous;
+            current.Previous.Next = newNode;
+            current.Previous = newNode;
+        }
+        count++;
+    }
+
+    public bool Remove(T value)
+    {
+        Node<T> current = head;
+        while (current != null)
+        {
+            if (current.Value.Equals(value))
+            {
+                if (current.Previous != null)
+                {
+                    current.Previous.Next = current.Next;
+                }
+                else
+                {
+                    head = current.Next;
+                }
+
+                if (current.Next != null)
+                {
+                    current.Next.Previous = current.Previous;
+                }
+                else
+                {
+                    tail = current.Previous;
+                }
+
+                count--;
+                return true;
+            }
+            current = current.Next;
+        }
+        return false;
+    }
+
+    public int IndexOf(T value)
+    {
+        Node<T> current = head;
+        int index = 0;
+        while (current != null)
+        {
+            if (current.Value.Equals(value))
+            {
+                return index;
+            }
+            current = current.Next;
+            index++;
+        }
+        return -1;
+    }
+
+    public T GetAt(int index)
+    {
+        if (index < 0 || index >= count)
+        {
+            throw new ArgumentOutOfRangeException(nameof(index));
+        }
+
+        Node<T> current = head;
+        for (int i = 0; i < index; i++)
+        {
+            current = current.Next;
+        }
+        return current.Value;
+    }
+
+    public T[] ToArray()
+    {
+        T[] array = new T[count];
+        Node<T> current = head;
+        int index = 0;
+        while (current != null)
+        {
+            array[index++] = current.Value;
+            current = current.Next;
+        }
+        return array;
+    }
+}
+
+
+
+
+//N. Задача 5
+
+static void Main(string[] args)
+{
+    int[] arr = [1, 2, 4, 11, 12, 8];
+    int num = 2;
+    Console.WriteLine(MaxNumDoubles(arr, num));
+
+}
+
+static int MaxNumDoubles(int[] array, int number)
+{
+    int currentNum = number;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i] == currentNum)
+        {
+            currentNum *= 2;
+        }
+    }
+    return currentNum;
+}
+
+//N. Задача 6
+//vectors for the 4 directions
+static int[] dr = { -1, 1, 0, 0 };
+static int[] dc = { 0, 0, -1, 1 };
+
+static void Main()
+{
+    Console.Write("Number of rows (N): ");
+    int N = int.Parse(Console.ReadLine());
+    
+    Console.Write("Number of columns (M): ");
+    int M = int.Parse(Console.ReadLine());
+
+    
+    char[][] grid = new char[N][];
+    for (int i = 0; i < N; i++)
+    {
+        Console.Write($"Input row {i + 1} (chars without spaces): ");
+        string line = Console.ReadLine();
+        grid[i] = line.ToCharArray();
+    }
+
+    bool[][] visited = new bool[N][];
+    for (int i = 0; i < N; i++)
+    {
+        visited[i] = new bool[M];
+    }
+
+    int strokesCount = 0;
+
+    for (int r = 0; r < N; r++)
+    {
+        for (int c = 0; c < M; c++)
+        {
+            if (!visited[r][c])
+            {
+                strokesCount++;
+                BFS(grid, visited, r, c);
+            }
+        }
+    }
+
+    Console.WriteLine("Number of strokes: " + strokesCount);
+}
+
+static void BFS(char[][] grid, bool[][] visited, int startR, int startC)
+{
+    int rows = grid.Length;
+    int cols = grid[0].Length;
+    char symbol = grid[startR][startC]; 
+    Queue<(int, int)> queue = new Queue<(int, int)>();
+
+    visited[startR][startC] = true;
+    queue.Enqueue((startR, startC));
+
+    while (queue.Count > 0)
+    {
+        var (r, c) = queue.Dequeue();
+
+        for (int i = 0; i < 4; i++)
+        {
+            int nr = r + dr[i];
+            int nc = c + dc[i];
+
+            if (nr >= 0 && nr < rows && nc >= 0 && nc < cols)
+            {
+                if (!visited[nr][nc] && grid[nr][nc] == symbol)
+                {
+                    visited[nr][nc] = true;
+                    queue.Enqueue((nr, nc));
+                }
+            }
+        }
+    }
+}
+
+//N. Задача 7
+
+class TreeNode
+{
+    public int val;
+    public TreeNode left;
+    public TreeNode right;
+    public TreeNode(int x) { val = x; }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Input values seperated by commas:");
+        string input = Console.ReadLine();
+
+        TreeNode root = BuildTree(input);
+
+        bool isBST = IsValidBST(root);
+
+        Console.WriteLine(isBST ? "True" : "False");
+    }
+
+    static TreeNode BuildTree(string input)
+    {
+        if (string.IsNullOrWhiteSpace(input)) return null;
+
+        string[] values = input.Split(',');
+
+        if (values[0].Trim().ToLower() == "null")
+        {
+            return null;
+        }
+
+        TreeNode root = new TreeNode(int.Parse(values[0].Trim()));
+        Queue<TreeNode> queue = new Queue<TreeNode>();
+        queue.Enqueue(root);
+
+        int i = 1; 
+        while (queue.Count > 0 && i < values.Length)
+        {
+            TreeNode current = queue.Dequeue();
+
+            if (i < values.Length)
+            {
+                string leftVal = values[i++].Trim().ToLower();
+                if (leftVal != "null")
+                {
+                    current.left = new TreeNode(int.Parse(leftVal));
+                    queue.Enqueue(current.left);
+                }
+            }
+
+            if (i < values.Length)
+            {
+                string rightVal = values[i++].Trim().ToLower();
+                if (rightVal != "null")
+                {
+                    current.right = new TreeNode(int.Parse(rightVal));
+                    queue.Enqueue(current.right);
+                }
+            }
+        }
+
+        return root;
+    }
+    static bool IsValidBST(TreeNode root)
+    {
+        return IsValidBST(root, long.MinValue, long.MaxValue);
+    }
+
+    static bool IsValidBST(TreeNode node, long minVal, long maxVal)
+    {
+        if (node == null)
+        {
+            return true;
+        }
+
+        if (node.val <= minVal || node.val >= maxVal)
+        {
+            return false;
+        }
+
+        return IsValidBST(node.left, minVal, node.val) &&
+               IsValidBST(node.right, node.val, maxVal);
+    }
+}
